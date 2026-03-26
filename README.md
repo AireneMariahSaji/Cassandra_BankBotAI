@@ -23,9 +23,13 @@ Cassandra BankBot AI is a chatbot system designed to handle banking-related quer
 
 ## 📂 Project Structure
 Cassandra_BankBotAI/
-│── app.py               # Main application
+
+│── app.py  # Main application
+
 │── banking_library.py   # Handles banking logic & JSON data
+
 │── README.md            # Project documentation
+
 │── LICENSE              # MIT License
 
 ---
