@@ -26,11 +26,11 @@ Cassandra_BankBotAI/
 
 │── app.py  # Main application
 
-│── banking_library.py   # Handles banking logic & JSON data
+│── banking_library.py     # Handles banking logic & JSON data
 
-│── README.md            # Project documentation
+│── README.md              # Project documentation
 
-│── LICENSE              # MIT License
+│── LICENSE                # MIT License
 
 ---
 
